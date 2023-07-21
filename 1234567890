@@ -1,0 +1,17 @@
+{
+  "contact": "@splatube on discord",
+  "templates": [
+    {
+      "name": "Sky: COTL ",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/773470114820784149/1131799322950910042/pixil-frame-0_10.png"
+      ],
+      "x": 967,
+      "y": 569
+    }
+  ],
+  "whitelist": [
+   
+  ],
+  "blacklist": []
+}
